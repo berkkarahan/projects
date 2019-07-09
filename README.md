@@ -14,11 +14,11 @@ I wanted to be able to gather the data required for car price modeling. So I wro
 -	Fast enough to be fast and not hit site limit(using random delays between each subsequent request).
 -	Threaded.
 
-:hotel::sunrise::ocean: [Trivago Predictive hits]([https://github.com/berkkarahan/trivago-challenge](https://github.com/berkkarahan/trivago-challenge))
+:hotel::sunrise::ocean: [Trivago Predictive hits](https://github.com/berkkarahan/trivago-challenge)
 -
 This was a [job application challenge]([https://jobs.zealpath.com/m/case/detail/298](https://jobs.zealpath.com/m/case/detail/298)). Although my project files are messy I have tried to demonstrate some feature engineering and feature interaction using autoencoders. 
 
-:chart_with_upwards_trend::chart_with_downwards_trend: [Forecasting Challenge]([https://github.com/berkkarahan/forecasting-case-study](https://github.com/berkkarahan/forecasting-case-study))
+:chart_with_upwards_trend::chart_with_downwards_trend: [Forecasting Challenge](https://github.com/berkkarahan/forecasting-case-study)
 -
 A forecasting challenge demonstrating a timeseries application with traditional ML algorithms using time features as categoricals.
 
