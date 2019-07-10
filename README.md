@@ -20,7 +20,7 @@ This was a [job application challenge]([https://jobs.zealpath.com/m/case/detail/
 
 :chart_with_upwards_trend::chart_with_downwards_trend: [Forecasting Challenge](https://github.com/berkkarahan/forecasting-case-study)
 -
-A forecasting challenge demonstrating a timeseries application with traditional ML algorithms using time features as categoricals.
+A forecasting challenge demonstrating a timeseries application with traditional ML algorithms using both IoT data and time features as categoricals.
 
 :bicyclist::snake: [Traveling Salesman with Python](https://github.com/berkkarahan/shortestpath)
 -
